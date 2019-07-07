@@ -1,3 +1,2 @@
-ipywidgets==7.5
+voila==0.1.6
 bqplot
-voila==0.1.2
