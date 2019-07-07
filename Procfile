@@ -1,1 +1,1 @@
-web: voila —-port=$PORT —-no-browser notebooks/bqplot.ipynb
+web: voila --port=$PORT --no-browser notebooks/bqplot.ipynb
