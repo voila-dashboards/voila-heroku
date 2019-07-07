@@ -1,0 +1,4 @@
+ipywidgets==7.5
+bqplot
+ipympl
+voila==0.1.2
