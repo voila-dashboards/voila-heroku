@@ -1,6 +1,6 @@
 # Voila application deployed on Heroku
 
-This is an example of Voila deployed on Heroku, try it out: https://infinite-lowlands-84233.herokuapp.com/
+This is an example of Voila deployed on Heroku, try it out: https://voila-bqplot.herokuapp.com/
 
 ## How to deploy your own?
 
