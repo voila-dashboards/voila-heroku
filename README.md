@@ -11,7 +11,7 @@ This is an example of Voila deployed on Heroku, try it out: https://voila-bqplot
 2. Clone this repository, or create your own repository that follows the same structure:
 
 ```bash
-git clone https://github.com/martinRenou/voila_heroku
+git clone https://github.com/voila-dashboards/voila_heroku
 cd voila_heroku
 ```
 
