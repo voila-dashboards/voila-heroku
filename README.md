@@ -11,8 +11,8 @@ This is an example of Voila deployed on Heroku, try it out: https://voila-bqplot
 2. Clone this repository, or create your own repository that follows the same structure:
 
 ```bash
-git clone https://github.com/voila-dashboards/voila_heroku
-cd voila_heroku
+git clone https://github.com/voila-dashboards/voila-heroku
+cd voila-heroku
 ```
 
 3. Create your Notebook and put it in the `notebooks` directory
