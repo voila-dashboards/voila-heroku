@@ -19,7 +19,7 @@ cd voila-heroku
 
 5. Add the dependencies needed for running your Notebook in the `requirements.txt` file
 
-6. Edit the `Procfile` file by replacing `notebooks/bqplot.ipynb` by the path to your awesome Notebook
+6. Edit the `Procfile` file by replacing `notebooks/bqplot.ipynb` by the path to your awesome Notebook and `--template=material` to the template you use
 
 7. Commit everything
 
